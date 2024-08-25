@@ -2,8 +2,8 @@
 
 sketchybar  --add item media e \
             --set media label.color=$ACCENT_COLOR \
-                        label.max_chars=22 \
-                        icon.padding_left=0 \
+                        label.max_chars=35 \
+                        icon.padding_left=15 \
                         scroll_texts=on \
                         icon= \
                         icon.color=$ACCENT_COLOR \
