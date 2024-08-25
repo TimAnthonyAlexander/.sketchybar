@@ -1,6 +1,7 @@
 # ✨ My SketchyBar Configuration
 
-Welcome to my personal configuration for [SketchyBar](https://github.com/TimAnthonyAlexander/sketchybar), a highly customizable macOS status bar replacement. This setup brings a minimalist yet functional approach with a beautiful teal color scheme. 🎨
+Welcome to my personal configuration for [SketchyBar](https://github.com/TimAnthonyAlexander/.sketchybar), a highly customizable macOS status bar replacement.
+This setup brings a minimalist yet functional approach with a beautiful teal color scheme. 🎨
 
 ## 🌟 Features
 
