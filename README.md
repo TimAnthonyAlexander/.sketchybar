@@ -18,3 +18,7 @@ This setup brings a minimalist yet functional approach with a beautiful teal col
 
 The main accent color is **Teal** (`0xff2cf9ed`), giving the bar a clean and modern look that complements the macOS aesthetic.
 
+##  📷 Screenshots
+
+![SketchyBar Menu](screenshot.png)
+
